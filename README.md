@@ -241,4 +241,4 @@ This repository serves as the official landing page for Poser. The software is d
 **Get the most recent version of Poser today!**
 
 ---
-**Last updated:** 2026-10-16 20:25:12 UTC
+**Last updated:** 2026-10-16 23:12:48 UTC
